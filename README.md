@@ -17,10 +17,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1c1c1e,100:2c2c2e&height=220&section=header&text=Your%20Name&fontSize=58&fontColor=f5f5f7&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=15&descAlignY=62&descColor=98989f"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1c1c1e,100:2c2c2e&height=220&section=header&text=Muhammad%20Nasrullah&fontSize=58&fontColor=f5f5f7&fontAlignY=40&animation=fadeIn&desc=UI%2FUX%20Designer%20%E2%80%A2%20Shopify%20Developer%20%E2%80%A2%20Amazon%20Designer&descSize=15&descAlignY=62&descColor=98989f"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,50:e8e8ed,100:d1d1d6&height=220&section=header&text=Your%20Name&fontSize=58&fontColor=1d1d1f&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=15&descAlignY=62&descColor=6e6e73"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f7,50:e8e8ed,100:d1d1d6&height=220&section=header&text=Muhammad%20Nasrullah&fontSize=58&fontColor=1d1d1f&fontAlignY=40&animation=fadeIn&desc=UI%2FUX%20Designer%20%E2%80%A2%20Shopify%20Developer%20%E2%80%A2%20Amazon%20Designer&descSize=15&descAlignY=62&descColor=6e6e73"
     alt="Header Banner"
     width="100%"
   />
@@ -36,7 +36,7 @@
 
 <!-- Profile avatar — replace URL with your own GitHub avatar -->
 <img
-  src="https://avatars.githubusercontent.com/u/Muhammad-Nasrullah-J"
+  src="https://avatars.githubusercontent.com/u/196841452?s=96&v=4"
   alt="Profile Avatar"
   width="130"
   height="130"
@@ -50,10 +50,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=3000&pause=800&color=F5F5F7&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there%2C+I%27m+Your+Name+%F0%9F%91%8B;Building+beautiful+things+on+the+web;Designing+with+purpose+%26+precision;Always+learning%2C+always+shipping+%F0%9F%9A%80"
+      srcset="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=3000&pause=800&color=F5F5F7&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there%2C+I%27m+Muhammad+Nasrullah+%F0%9F%91%8B;Design+tha+converts+and+retains+%F0%9F%9A%80"
     />
     <img
-      src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=3000&pause=800&color=1D1D1F&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there%2C+I%27m+Your+Name+%F0%9F%91%8B;Building+beautiful+things+on+the+web;Designing+with+purpose+%26+precision;Always+learning%2C+always+shipping+%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=3000&pause=800&color=1D1D1F&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there%2C+I%27m+Muhammad+Nasrullah+%F0%9F%91%8B;Design+tha+converts+and+retains+%F0%9F%9A%80"
       alt="Typing SVG"
     />
   </picture>
@@ -62,37 +62,37 @@
 <br/><br/>
 
 <!-- Location · Role · Availability badges -->
-<img src="https://img.shields.io/badge/📍%20San%20Francisco%2C%20CA-%23f5f5f7?style=flat-square&labelColor=1d1d1f&color=2c2c2e&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/📍%20Lahore%2C%20Pakistan-%23f5f5f7?style=flat-square&labelColor=0071e3&color=0071e3&logoColor=white" alt="Lahore"/>
 &nbsp;
 <img src="https://img.shields.io/badge/💼%20Open%20to%20Work-0071e3?style=flat-square&logoColor=white" alt="Open to Work"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🌐%20he%2Fhim-6e6e73?style=flat-square&logoColor=white" alt="Pronouns"/>
+<img src="https://img.shields.io/badge/🌐%20Remote-0071e3?style=flat-square&logoColor=white" alt="Pronouns"/>
 
 <br/><br/>
 
 <!-- Social links row -->
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/muhammadn-com/">
+  <img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/[YOUR_TWITTER]">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
+<a href="https://muhammadn.cv/">
+  <img src="https://img.shields.io/badge/My%20CV-212121?style=for-the-badge&logo=cv&logoColor=white" alt="CV"/>
 </a>
 &nbsp;
 <a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=mymail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://[YOUR_PORTFOLIO].dev">
-  <img src="https://img.shields.io/badge/Portfolio-1d1d1f?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+<a href="https://muhammadn.com/">
+  <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
 <!-- Profile views + followers -->
-<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0071e3&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Nasrullah-J&label=Profile%20Views&color=0071e3&style=flat-square" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?label=Followers&style=flat-square&color=0071e3&labelColor=1d1d1f" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Muhammad-Nasrullah-J?label=Followers&style=flat-square&color=0071e3&labelColor=1d1d1f" alt="Followers"/>
 
 </div>
 
@@ -114,7 +114,7 @@
 <tr>
 <td width="56%" valign="top">
 
-**Hey! I'm [Your Name]** — a full-stack developer and UI/UX designer based in San Francisco. I obsess over the intersection of beautiful design and clean code, crafting digital experiences that feel as good as they look.
+**Hey! I'm Muhammad N.** - a full-stack developer and UI/UX designer based in San Francisco. I obsess over the intersection of beautiful design and clean code, crafting digital experiences that feel as good as they look.
 
 I believe software should be **intuitive**, **fast**, and **delightful** — like the best Apple products. When I'm not pushing pixels, I'm contributing to open source, writing about design systems, or hiking with terrible cell coverage.
 
@@ -122,10 +122,10 @@ I believe software should be **intuitive**, **fast**, and **delightful** — lik
 <td width="44%" valign="top">
 
 ```yaml
-name:        Your Name
-location:    San Francisco, CA 🌁
-role:        Full Stack Engineer
-focus:       Web · Mobile · Systems
+name:        Muhammad Nasrullah
+location:    Lahore, Pakistan
+role:        Designer & Developer
+focus:       UI/UX · Shopify · Amazon
 
 currently:
   building:  A SaaS developer tool 🛠️
