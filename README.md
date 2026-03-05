@@ -128,10 +128,9 @@ role:        Designer & Developer
 focus:       UI/UX · Shopify · Amazon
 
 currently:
-  building:  A SaaS developer tool 🛠️
-  learning:  Rust & WebAssembly
-  reading:   "A Philosophy of Software Design"
-
+  building:  4 Web Application
+  learning:  Why Ai in Loss (Expensive Data Mining)
+  
 fun_fact:    Ships at midnight ☕
 ```
 
@@ -142,33 +141,33 @@ fun_fact:    Ships at midnight ☕
 <br/>
 
 <!-- ============================================================ -->
-<!--  SKILLS SECTION                                              -->
+<!--  SandBox SECTION                                              -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-### 〈 Skills & Tools 〉
+### 〈 My SandBox 〉
 
 </div>
 
-<!-- ── Design Tools ── -->
+<!-- ── Downloadable ── -->
 <div align="center">
 
-**✦ Design**
+**✦ Plugins**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae&theme=light" alt="Design Tools" height="40"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=light" alt="Design Tools" height="40"/>
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ── Frontend ── -->
+<!-- ── Tools ── -->
 <div align="center">
 
-**✦ Frontend**
+**✦ Web Applications**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass&theme=dark"/>
