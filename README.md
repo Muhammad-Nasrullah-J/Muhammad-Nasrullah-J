@@ -30,20 +30,7 @@
 <!--  PROFILE ROW — avatar · name · typing tagline                -->
 <!-- ============================================================ -->
 
-<br/>
-
 <div align="center">
-
-<!-- Profile avatar — replace URL with your own GitHub avatar -->
-<img
-  src="https://avatars.githubusercontent.com/u/196841452?s=96&v=4"
-  alt="Profile Avatar"
-  width="130"
-  height="130"
-  style="border-radius:50%;border:4px solid #0071e3;box-shadow:0 8px 32px rgba(0,113,227,0.25);"
-/>
-
-<br/><br/>
 
 <!-- Typing animation tagline -->
 <a href="https://git.io/typing-svg">
@@ -104,11 +91,6 @@
 <!--  ABOUT SECTION                                               -->
 <!-- ============================================================ -->
 
-<div align="center">
-
-### 〈 About Me 〉
-
-</div>
 
 <table align="center" width="94%">
 <tr>
@@ -146,12 +128,12 @@ fun_fact:    Ships at midnight ☕
 
 <div align="center">
 
-### 〈 My SandBox 〉
+### My SandBox
 
 </div>
 
 <!-- ── Downloadable ── -->
-<div align="center">
+<div align="Left">
 
 **✦ Plugins**
 
@@ -165,7 +147,7 @@ fun_fact:    Ships at midnight ☕
 <br/>
 
 <!-- ── Tools ── -->
-<div align="center">
+<div align="Left">
 
 **✦ Web Applications**
 
@@ -178,47 +160,6 @@ fun_fact:    Ships at midnight ☕
 
 <br/>
 
-<!-- ── Backend ── -->
-<div align="center">
-
-**✦ Backend**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,python,go,rust,express,fastapi,graphql,postgres,redis&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,go,rust,express,fastapi,graphql,postgres,redis&theme=light" alt="Backend Technologies" height="40"/>
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ── DevOps & Other ── -->
-<div align="center">
-
-**✦ DevOps & Cloud**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,github,git,linux,vercel&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,github,git,linux,vercel&theme=light" alt="DevOps Tools" height="40"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================ -->
-<!--  GITHUB STATS SECTION                                        -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-### 〈 GitHub Stats 〉
-
-</div>
-
-<br/>
 
 <!-- Stats row 1 — main stats + streak side by side -->
 <div align="center">
@@ -226,10 +167,10 @@ fun_fact:    Ships at midnight ☕
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f&ring_color=0071e3&card_width=420"
+    srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-Nasrullah-J&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f&ring_color=0071e3&card_width=420"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73&ring_color=0071e3&card_width=420"
+    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Nasrullah-J&show_icons=true&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73&ring_color=0071e3&card_width=420"
     alt="GitHub Stats"
     height="175"
   />
@@ -401,13 +342,13 @@ fun_fact:    Ships at midnight ☕
 
 <table align="center" width="94%">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🏢 Work
 
-**Senior Engineer** @ Acme Corp
-`2022 – Present`
-Led a team of 8, shipped 3 major product features used by 500K+ users.
+**SMB Designer** @ ByldCommerce
+`2024 – Present`
+Designe listing images, EBC/A+ Content And Storefont.
 
 **Software Engineer** @ StartupXYZ
 `2019 – 2022`
@@ -418,7 +359,7 @@ Built the core API platform from scratch, scaled to 10M req/day.
 Designed and built 20+ client websites and web apps.
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🏆 Achievements
 
@@ -437,29 +378,7 @@ Designed and built 20+ client websites and web apps.
 🔧 &nbsp;Maintained **3 open source** libraries
 
 </td>
-<td width="33%" align="center" valign="top">
 
-### 📜 Certifications
-
-<br/>
-
-[![AWS](https://img.shields.io/badge/AWS%20SAA-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-**AWS Solutions Architect**
-Associate · 2023
-
-[![GCP](https://img.shields.io/badge/GCP%20ACE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification)
-**Google Cloud Engineer**
-Associate · 2022
-
-[![CKA](https://img.shields.io/badge/CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
-**Certified Kubernetes**
-Administrator · 2023
-
-[![Meta](https://img.shields.io/badge/Meta%20Frontend-0866FF?style=flat-square&logo=meta&logoColor=white)](https://www.coursera.org/professional-certificates/meta-front-end-developer)
-**Meta Front-End Dev**
-Professional Cert · 2021
-
-</td>
 </tr>
 </table>
 
@@ -483,27 +402,22 @@ Professional Cert · 2021
 
 <table width="94%" align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="45%">
 
-**🔨 Building**
+**Building** <br/>
 A developer productivity SaaS tool with AI-powered code review
 
 </td>
 <td align="center" width="25%">
 
-**📖 Learning**
-Rust systems programming & WebAssembly for high-performance web apps
+**Learning** <br/>
+Why Ai in Loss (Expensive Data Mining)
 
 </td>
-<td align="center" width="25%">
 
-**✍️ Writing**
-A blog series on design systems and component architecture at scale
+<td align="center" width="30%">
 
-</td>
-<td align="center" width="25%">
-
-**🎯 Goal 2025**
+**Goal 2026** <br/>
 Contribute to 5 major open source projects & launch my SaaS MVP
 
 </td>
@@ -522,7 +436,7 @@ Contribute to 5 major open source projects & launch my SaaS MVP
 
 <div align="center">
 
-### 〈 Let's Connect 〉
+### Let's Connect
 
 I'm always open to interesting conversations, collaboration, and new opportunities.
 Feel free to reach out — whether it's about code, design, or just to say hi.
@@ -530,21 +444,18 @@ Feel free to reach out — whether it's about code, design, or just to say hi.
 <br/>
 
 <!-- macOS-style contact buttons -->
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/📧%20%20Send%20an%20Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+<a href="mailto:hello@muhammadn.com">
+  <img src="https://img.shields.io/badge/📧%20%20hello@muhammadn.com-ededed?style=for-the-badge&logoColor=black" alt="Email"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://[YOUR_PORTFOLIO].dev">
-  <img src="https://img.shields.io/badge/🌐%20%20Visit%20Portfolio-1d1d1f?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+<a href="https://muhammadn.com/work/">
+  <img src="https://img.shields.io/badge/🌐%20%20Visit%20Portfolio-ededed?style=for-the-badge&logoColor=black" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
-  <img src="https://img.shields.io/badge/💼%20%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/muhammadn-com/">
+  <img src="https://img.shields.io/badge/💼%20%20LinkedIn-ededed?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/[YOUR_TWITTER]">
-  <img src="https://img.shields.io/badge/𝕏%20%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-</a>
+
 
 <br/><br/>
 
@@ -553,8 +464,6 @@ Feel free to reach out — whether it's about code, design, or just to say hi.
 </div>
 
 <br/>
-
----
 
 <!-- ============================================================ -->
 <!--  FOOTER BANNER                                               -->
@@ -576,7 +485,7 @@ Feel free to reach out — whether it's about code, design, or just to say hi.
 
 <sub>
   Crafted with ❤️ and ☕ &nbsp;·&nbsp;
-  <a href="https://github.com/Muhammad-Nasrullah-J/Muhammad-Nasrullah-J">View source</a>
+  <a href="https://muhammadn.com/">View Main Site</a>
 </sub>
 
 </div>
