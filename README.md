@@ -239,10 +239,10 @@ fun_fact:    Ships at midnight ☕
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&text_color=98989f&langs_count=7"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Nasrullah-J&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&text_color=98989f&langs_count=7"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=6e6e73&langs_count=7"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Nasrullah-J&layout=compact&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&text_color=6e6e73&langs_count=7"
     alt="Top Languages"
     height="175"
   />
@@ -258,10 +258,10 @@ fun_fact:    Ships at midnight ☕
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0071e3&fire=ff6b35&currStreakLabel=f5f5f7&sideLabels=98989f&dates=98989f&stroke=1c1c1e&card_width=700"
+    srcset="https://streak-stats.demolab.com?user=Muhammad-Nasrullah-J&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0071e3&fire=ff6b35&currStreakLabel=f5f5f7&sideLabels=98989f&dates=98989f&stroke=1c1c1e&card_width=700"
   />
   <img
-    src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=default&hide_border=true&background=f5f5f7&ring=0071e3&fire=ff6b35&currStreakLabel=1d1d1f&sideLabels=6e6e73&dates=6e6e73&stroke=d1d1d6&card_width=700"
+    src="https://streak-stats.demolab.com?user=Muhammad-Nasrullah-J&theme=default&hide_border=true&background=f5f5f7&ring=0071e3&fire=ff6b35&currStreakLabel=1d1d1f&sideLabels=6e6e73&dates=6e6e73&stroke=d1d1d6&card_width=700"
     alt="GitHub Streak"
     height="160"
   />
@@ -277,10 +277,10 @@ fun_fact:    Ships at midnight ☕
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=0d1117&color=98989f&line=0071e3&point=f5f5f7&area=true&area_color=0071e3&hide_border=true&radius=8"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Nasrullah-J&bg_color=0d1117&color=98989f&line=0071e3&point=f5f5f7&area=true&area_color=0071e3&hide_border=true&radius=8"
   />
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=f5f5f7&color=6e6e73&line=0071e3&point=1d1d1f&area=true&area_color=0071e3&hide_border=true&radius=8"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Nasrullah-J&bg_color=f5f5f7&color=6e6e73&line=0071e3&point=1d1d1f&area=true&area_color=0071e3&hide_border=true&radius=8"
     alt="Contribution Graph"
     width="94%"
   />
@@ -313,8 +313,8 @@ fun_fact:    Ships at midnight ☕
 
 <!-- PROJECT 1 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_1]&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_1]&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73" alt="Project 1" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Nasrullah-J&repo=[REPO_1]&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Nasrullah-J&repo=[REPO_1]&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73" alt="Project 1" width="100%"/>
 </picture>
 
 **🛠 Tech Stack:**
@@ -328,8 +328,8 @@ fun_fact:    Ships at midnight ☕
 
 <!-- PROJECT 2 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_2]&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_2]&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73" alt="Project 2" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Nasrullah-J&repo=[REPO_2]&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Nasrullah-J&repo=[REPO_2]&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73" alt="Project 2" width="100%"/>
 </picture>
 
 **🛠 Tech Stack:**
@@ -347,8 +347,8 @@ fun_fact:    Ships at midnight ☕
 
 <!-- PROJECT 3 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_3]&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_3]&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73" alt="Project 3" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Nasrullah-J&repo=[REPO_3]&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Nasrullah-J&repo=[REPO_3]&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73" alt="Project 3" width="100%"/>
 </picture>
 
 **🛠 Tech Stack:**
@@ -362,8 +362,8 @@ fun_fact:    Ships at midnight ☕
 
 <!-- PROJECT 4 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_4]&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_4]&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73" alt="Project 4" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Nasrullah-J&repo=[REPO_4]&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=0071e3&text_color=98989f"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Nasrullah-J&repo=[REPO_4]&theme=default&hide_border=true&bg_color=f5f5f7&title_color=1d1d1f&icon_color=0071e3&text_color=6e6e73" alt="Project 4" width="100%"/>
 </picture>
 
 **🛠 Tech Stack:**
@@ -577,8 +577,7 @@ Feel free to reach out — whether it's about code, design, or just to say hi.
 
 <sub>
   Crafted with ❤️ and ☕ &nbsp;·&nbsp;
-  Inspired by Apple design language &nbsp;·&nbsp;
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]">View source</a>
+  <a href="https://github.com/Muhammad-Nasrullah-J/Muhammad-Nasrullah-J">View source</a>
 </sub>
 
 </div>
