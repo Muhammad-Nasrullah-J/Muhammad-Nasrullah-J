@@ -137,10 +137,7 @@ fun_fact:    Ships at midnight ☕
 
 **✦ Plugins**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=wordpress&theme=light" alt="Design Tools" height="40"/>
-</picture>
+<a href="https://muhammadn.com/my-sandbox/" title="wordpress"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress&theme=dark"/><img src="https://skillicons.dev/icons?i=wordpress&theme=light" alt="wordpress" height="40"/></picture></a>
 
 </div>
 
